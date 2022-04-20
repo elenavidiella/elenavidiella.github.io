@@ -1,0 +1,130 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+
+
+
+body {
+    background-color:black;
+    margin-top:0;
+    margin-right:0;
+    margin-bottom:0;
+    margin-left:0;
+    font-family: 'Roboto Mono', monospace;
+}
+
+*{
+    
+    min-height: 10px;
+    padding: 10px;
+    
+}
+
+.nav {
+    
+    display:grid;
+    grid-template-columns: 0px auto;
+    margin-right: auto;
+    max-width: 1450px;
+}
+
+.header {
+    background-color: #0D358C;
+    color:white;
+    height: 155px;
+
+}
+
+.logo {
+    
+    padding-top: 5px;
+    font-size: 2rem;
+    text-align: center;
+    color: #EC5428;
+    margin-left: 30px;
+    padding-bottom: 10px;
+}
+
+
+
+    
+
+.links {
+    
+    margin-top: 40px;
+    font-size: 1rem;
+    text-align: right;
+    color: #D56E2D;
+}
+   
+
+ .links a {
+    color: white; 
+    padding-left: 10px; 
+    padding-right: 10px; 
+    text-decoration: none; 
+     
+}
+
+.colour_banner {
+    background-color: black;
+    padding-top: 30px;
+    text-align:center;
+    padding-left: 10px;
+    padding-right:10px;
+    
+}
+
+.colour_banner img {
+    text-align: center;
+    max-width: 1250px;
+    margin-left: 30px;
+    margin-right: 10px;
+ }   
+
+
+
+    
+    .orange_colour_banner {
+    background-color:#D56E2D;
+    margin-left: 0px;
+    padding-top: 0px;
+    text-align:left;
+    padding-left: 20px;
+    padding-right:20px;
+     margin-top: 820px;
+    
+}
+
+    
+    .blue_colour_banner {
+    background-color: #0D358C;
+    margin-left: 0px;
+    text-align:left;
+    padding-left: 15px;
+    padding-right:10px;
+    
+}
+
+.painting_2 img {
+    text-align:left;
+    max-width: 300px;
+    
+    
+}
+
+.painting_1 img {
+    text-align:right;
+    max-width: 300px;
+    
+}
+
+.slaystar img {
+    text-align:left;
+   max-width: 300px;
+}
+
+
+.window_painting img {
+    text-align:right;
+    max-width: 300px;
+}
